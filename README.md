@@ -18,16 +18,7 @@ Projeto desenvolvido durante a formação Python da DIO, com o objetivo de prati
 
 Aplicar conceitos fundamentais de Python através da construção de um sistema bancário simples via terminal.
 
-## Como executar
+## strutura do Projeto
 
-1. Clone o repositório:
-
-```bash
-git clone URL_DO_REPOSITORIO
-```
-
-2. Execute o arquivo:
-
-```bash
-python desafio.py
-```
+* `desafio_v1.py` → versão inicial do sistema bancário com depósito, saque e extrato.
+* `desafio_v2.py` → versão modularizada com funções, cadastro de usuários e contas bancárias.
